@@ -1,1 +1,1 @@
-# fundacion_telefonica_predicci-n_heladas_puno
+# fundacion_telefonica_prediccion_heladas_puno
